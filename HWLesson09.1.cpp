@@ -1,5 +1,6 @@
 #include <iostream>
 #include <cmath>
+#include <locale>
 using namespace std;
 
 void Calculate(double amount_of_credit, double interest_rate, int month) {
